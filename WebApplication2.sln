@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adrotator", "WebApplication2\Adrotator.csproj", "{EB470B53-E206-4A58-9266-FE39C5910E59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB470B53-E206-4A58-9266-FE39C5910E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB470B53-E206-4A58-9266-FE39C5910E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB470B53-E206-4A58-9266-FE39C5910E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB470B53-E206-4A58-9266-FE39C5910E59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5BB0716-1C96-4499-841F-0688388AF74D}
+	EndGlobalSection
+EndGlobal

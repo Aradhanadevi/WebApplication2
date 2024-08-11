@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>dark1.jpg</ImageUrl>s
+		<AlternateText>Aradhana</AlternateText>
+		<NavigateUrl>https://theuselessweb.com/</NavigateUrl>
+		<Impressions>50000</Impressions>
+		<Keyword>A</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>dark2.jpg</ImageUrl>
+		<AlternateText>Aradhana11</AlternateText>
+		<Impressions>420000</Impressions>
+		<NavigateUrl>https://maze.toys/</NavigateUrl>
+		<Keyword>A</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>dark3.jpg</ImageUrl>
+		<AlternateText>Aradhana1</AlternateText>
+		<NavigateUrl>https://aradhanadevi.netlify.app/</NavigateUrl>
+		<Impressions>690000</Impressions>
+		<Keyword>A</Keyword>
+	</Ad>
+</Advertisements>
